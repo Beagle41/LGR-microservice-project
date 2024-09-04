@@ -1,0 +1,2 @@
+To avoid aggravating errors when committing add github Global/VisualStudioCode.gitignore to .gitignore
+** 09/01/2024 **
